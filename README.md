@@ -1,123 +1,119 @@
 ```md
-# Hi 👋, I'm Peela Ganesh
+<h1 align="center">Hi 👋, I'm <a href="YOUR_PORTFOLIO_LINK" target="blank">
+Peela Ganesh</a></h1>
 
-### AI & ML Enthusiast | MCA Student | Python Developer | Computer Vision Developer
+<h3 align="center">A passionate AI & Machine Learning Developer from Andhra Pradesh India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ganip25&label=Profile%20views&color=0e75b6&style=flat" alt="ganip25" />
+</p>
 
-- 🎓 MCA (AI & ML) Student at **KL University**
-- 💻 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
-- 🌱 Currently learning **Deep Learning, Generative AI, and Advanced ML**
-- 🔭 Working on **AI-powered Computer Vision Applications**
-- 🤝 Open to **Internships and Freelancing Opportunities**
-- 💬 Ask me about **Python, Machine Learning, YOLOv8, REST APIs, and Computer Vision**
-- 📫 Reach me at **ganeshpeela50@gmail.com**
-- 📍 Anakapalle, Andhra Pradesh, India
+<p align="left">
+<a href="YOUR_TWITTER_LINK" target="blank">
+<img src="https://img.shields.io/twitter/follow/YOUR_USERNAME?logo=twitter&style=for-the-badge" alt="ganip25" />
+</a>
+</p>
 
----
+- 🔭 I’m currently working on **Computer Vision & AI Projects**
 
-## 🚀 About Me
+- 🌱 I’m currently learning **Deep Learning, Generative AI & Advanced Machine Learning**
 
-I am an MCA student specializing in Artificial Intelligence and Machine Learning with a strong interest in building real-world AI applications. I enjoy solving problems using Machine Learning, Computer Vision, and Backend Technologies.
+- 🤝 I’m available for **Internships and Freelancing**
 
----
+- 🎓 Pursuing **Master of Computer Applications (AI & ML)** at KL University
 
-## 🛠️ Tech Stack
+- 💬 Ask me about **Python, Machine Learning, YOLOv8, REST APIs, Computer Vision**
 
-### Programming Languages
+- 📫 How to reach me **ganeshpeela50@gmail.com**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 📄 Know about my experiences **LinkedIn Profile**
 
-### AI / ML
+<br/>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-0F9D58?style=for-the-badge)
+### 👨‍💻 Programming Languages
 
-### Tools
+Replace current badges with:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel)
+Python
+Java
+C
+SQL
 
----
+### 🧰 Frameworks and Libraries
 
-## 💼 Experience
+Replace with:
 
-### Gen AI Intern | Brain O Vision
-📅 Jun 2025 – Jul 2025
+NumPy
+Pandas
+Scikit-Learn
+TensorFlow
+OpenCV
+YOLOv8
 
-- Implemented and validated AI/ML model outputs using Python.
-- Analyzed and verified system outputs.
-- Assisted in technical workflow validation.
-- Presented application workflows and analytical findings.
+### 🗄️ Databases and Cloud Hosting
 
-### AIML Intern | Hexind by Innovate
-📅 Jun 2025 – Jul 2025
+Replace with:
+
+MySQL
+Firebase
+GitHub Pages
+
+### 💻 Software and Tools
+
+Keep all existing icons and add:
+
+Git
+GitHub
+REST APIs
+MS Excel
+Jupyter Notebook
+VS Code
+
+### 👨🏽‍💻 Workspace
+
+Keep existing section unchanged if you want.
+
+### Experience
+
+#### Gen AI Intern | Brain O Vision
+
+- Assisted in implementing and validating AI/ML model outputs using Python.
+- Supported technical workflow validation and analysis.
+- Presented application workflows and findings.
+
+#### AIML Intern | Hexind by Innovate
 
 - Built Machine Learning models using Python.
 - Performed data preprocessing and feature engineering.
-- Trained and evaluated predictive models.
-- Contributed to end-to-end AI solutions.
+- Evaluated and improved model performance.
+- Worked on end-to-end AI solutions.
 
----
+### Projects
 
-## 🚀 Projects
+#### 🦷 Dental Cavity Detection System (YOLOv8)
 
-### 🦷 Dental Cavity Detection System (YOLOv8)
+- Full-stack AI application using YOLOv8.
+- REST API integration for real-time inference.
+- Model testing and validation.
+- Annotation verification and cavity counting.
 
-- Developed a full-stack AI web application.
-- Integrated YOLOv8 for cavity detection.
-- Connected REST APIs for real-time inference.
-- Performed testing and validation of predictions.
+#### 📹 AI Lens – AI-Based Fall Detection System
 
-### 📹 AI Lens – AI-Based Fall Detection System
-
-- Built a real-time fall detection system using CCTV footage.
-- Implemented Deep Learning and Computer Vision techniques.
+- Real-time fall detection using CCTV footage.
+- Deep Learning based posture analysis.
 - Improved detection reliability through model evaluation.
-- Eliminated dependency on wearable devices.
 
----
+### Connect With Me
 
-## 🎓 Education
+LinkedIn:
+https://linkedin.com/in/ganesh-peela-b04a95249
 
-### KL University
-**Master of Computer Applications (AI & ML)**
+GitHub:
+https://github.com/ganip25
 
-CGPA: **9.56**
+Email:
+ganeshpeela50@gmail.com
 
-### Andhra University
-**Bachelor of Computer Science**
-
-CGPA: **8.42**
-
----
-
-## 📊 GitHub Stats
-
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganip25&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganip25&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganip25&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ganesh-peela-b04a95249)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ganip25)
-
-📧 Email: **ganeshpeela50@gmail.com**
-
----
-
-### ⭐ Building intelligent solutions with AI and Machine Learning.
+Phone:
++91 7995678596
 ```
