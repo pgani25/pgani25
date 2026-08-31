@@ -18,7 +18,7 @@ Peela Ganesh</a></h1>
 
 - 📫 How to reach me **2401600061mca@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/pgani25/Peela-Ganesh/blob/main/Peela_Ganesh.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 ## 🛠️ My Favorite Tools
