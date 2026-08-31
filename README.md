@@ -18,7 +18,7 @@ Peela Ganesh</a></h1>
 
 - 📫 How to reach me **2401600061mca@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 ## 🛠️ My Favorite Tools
@@ -83,16 +83,9 @@ Peela Ganesh</a></h1>
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
-</p>
-
-## GitHub Stats
-
-
-|                                                                     Peela Ganesh's Stats                                                                     |
-
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                  
+</p>                 
 
 
 
-Last Edited on: 10/06/2026
+Last Edited on: 15/08/2026
 Credits: <a href="https://github.com/pgani25"> pgani25 </a>
